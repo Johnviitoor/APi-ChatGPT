@@ -1,4 +1,4 @@
-# Chat GPT HTML Code
+# API ChatGPT HTML
 
 Este repositório contém um código HTML que cria uma interface de chat utilizando o modelo GPT-3.5 da OpenAI.
 
